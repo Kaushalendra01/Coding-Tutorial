@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Blog or News | Coding Tutorial</title>
+		<link><![CDATA[https://codingtutorial.kkeducenter.in]]></link>
+		<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+		<language>en</language>
+		<pubDate>Mon, 03 Oct 2022 03:17:40 +0300</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">2208118857</guid>
+			<title>HTML (Hypertext Markup Language) Basic Introduction - Coding Tutorial</title>
+			<link>https://codingtutorial.kkeducenter.in/blog/html-hypertext-markup-language-basic-introduction.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/assets/images/assets/images/blog/bolg-1-1.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3229051217</guid>
+			<title>Terms and Conditions</title>
+			<link>https://codingtutorial.kkeducenter.in/terms-and-conditions.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/terms-and-conditions" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3105637028</guid>
+			<title>Pravicy Policy</title>
+			<link>https://codingtutorial.kkeducenter.in/pravicy-policy.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/pravicy-policy" />
+		</item>
+		<item>
+			<guid isPermaLink="false">4203729438</guid>
+			<title>Terms and Conditions</title>
+			<link>https://codingtutorial.kkeducenter.in/disclamers.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/terms-and-conditions" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1062828460</guid>
+			<title>Contact Us | Coding Tutorial</title>
+			<link>https://codingtutorial.kkeducenter.in/contact.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1039112588</guid>
+			<title>Coding Tutorial | Free Programming Courses</title>
+			<link>https://codingtutorial.kkeducenter.in/index.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3993752865</guid>
+			<title>Blog or News | Coding Tutorial</title>
+			<link>https://codingtutorial.kkeducenter.in/blog.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Coding Tutorial is a blog where you can learn HTML, CSS, JavaScript and Python along with creative CSS Animations, Effects and Projects.</description>
+			<pubDate>Sun, 02 Oct 2022 14:32:06 GMT</pubDate>
+			<enclosure url="https://codingtutorial.kkrducenter.in/" />
+		</item>
+	</channel>
+</rss>
